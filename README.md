@@ -1,6 +1,8 @@
 # Introduction-to-Blockchain
 Consensus Protocols using Distributed-Ledger-Technologies
 
+![Blockchain](blockchain.png)
+
 ## Ressources
 
 ### Videos:
@@ -13,5 +15,6 @@ Consensus Protocols using Distributed-Ledger-Technologies
 ### Other:
 - [Bitcoin whitepaper](https://bitcoin.org/bitcoin.pdf)
 - [Bitcoin and Cryptocurrency Technologies](https://de.coursera.org/learn/cryptocurrency)
+- [Proof of Stake (Ethereum)](https://github.com/ethereum/wiki/wiki/Proof-of-Stake-FAQ#what-is-proof-of-stake)
 
 
